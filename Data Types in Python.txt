@@ -1,0 +1,89 @@
+name="pushpanjali"
+age=21
+height=5.1
+student=True
+print(type(name))
+print(name)
+print(type(age))
+print(age)
+print(type(height))
+print(height)
+print(type(student))
+print(student)
+
+
+a=100
+print(type(a))
+b=99.99
+print(type(b))
+c="python"
+print(type(c))
+d=False
+print(type(d))
+
+
+a=10
+b=14
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(a//b)
+print(a**b)
+
+
+length = 10.0
+width = 14.2
+area=length*width
+perimeter=2*(length+width)
+print(area)
+print(perimeter)
+
+
+
+name="mandalapu pushpanjali"
+print(name)
+print(len(name))
+print(name[0])
+print(name[-1])
+print(name.upper())
+
+
+
+is_logged_in = False
+print(is_logged_in)
+is_logged_in = True
+print(is_logged_in)
+
+
+a=10
+print(a)
+print(float(a))
+print(type(a))
+b=10.0
+print(b)
+print(int(b))
+print(type(b))
+c=14
+print(c)
+print(str(c))
+print(type(c))
+d="500"
+print(d)
+print(int(d))
+print(type(d))
+
+
+name=str(input("emter name"))
+age=int(input("enter age"))
+print("hello", name)
+print("you are ",age )
+
+
+
+
+
+
+
+
