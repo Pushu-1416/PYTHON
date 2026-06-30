@@ -1,0 +1,14 @@
+Python - python is a programming language
+Language - Mediator to communicate with others 
+Programming - set of instructions
+python is a high level programming language which is used as a mediator between machine and a human.
+python is both interpreted and compiler language 
+python uses python virtual machine (pvm) - pvm converts high language to low level language and low lwvwl language to high level language
+interpreted:it check the entire code at a time
+compiler:it executes the code line by line
+python is a dynamically typed language that means no need to mention datatypes
+python is both object and procedure oriented
+python is case sensitive
+
+USES:
+Python is used for web applications,apps etc. 
