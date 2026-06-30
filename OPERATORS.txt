@@ -1,0 +1,158 @@
+#1.Take two numbers as input and perform:
+#Addition
+#Subtraction
+#Multiplication
+#Division
+#Modulus
+#2.Find whether a given number is even or odd using the modulus (%) operator.
+#3.Calculate the square and cube of a number using the exponent (**) operator.
+#4.Swap two numbers without using a third variable.
+#5.Find the quotient and remainder when one number is divided by another.
+
+
+#a=10
+#b=14
+#print(a+b)
+#print(a-b)
+#print(a*b)
+#print(a/b)
+#print(a%b)
+
+#a=int(input("enter a number"))
+#if a % 2==0:
+#    print("even")
+#else:
+#    print("odd")
+
+#a=13
+#print(a*2)
+#b=8
+#print(b*3)
+
+#a=10
+#b=14
+#a,b=b,a
+#print("a",a)
+#print("b",b)
+
+#a=9
+#b=7
+#print(a/b)
+#print(a%b)
+
+
+
+
+#Arithmetic Operators
+#Write a program to calculate the area and perimeter of a rectangle using +, -, *, and / operators.
+#Find the quotient and remainder when two numbers are divided using // and %.
+#Calculate the square and cube of a given number using the ** operator.
+#Assignment Operators
+#Take a number and perform the following operations using assignment operators:
+#Add 10
+#Subtract 5
+#Multiply by 2
+#Divide by 3
+#Swap two numbers without using a third variable.
+#Comparison Operators
+#Check whether a given number is greater than, less than, or equal to another number.
+#Write a program to determine whether a student has passed (marks >= 35).
+#Logical Operators
+#Check whether a person is eligible to vote (age >= 18) and has valid ID proof.
+#Check whether a number lies between 1 and 100 using logical operators.
+#Determine if a year is a leap year using logical operators.
+
+
+#a=int(input("enter a number"))
+#b=int(input("enter a number"))
+#print(a//b)
+#print(a%b)
+
+#a=int(in
+#put("enter a number"))
+#print(a*2)
+#print(a*3)
+
+#a=14
+#print(a+10)
+#print(a-5)
+#print(a*2)
+#print(a/3)
+
+
+#a=10
+#b=14
+#a,b=b,a
+#print("a:",a)
+#print("b:",b)
+
+#a=10
+#b=14
+#print(a>b)
+#print(a<b)
+#print(a==b)
+
+#marks=int(input("enter a number"))
+#if marks>=35:
+#    print("passed")
+#else:
+#    print("fail")
+
+
+#age=int(input("enter age"))
+#if age>=18:
+#    print("eligible to vote and and has valid id proof")
+#else:
+#    print("not eligible")
+
+
+#a=int(input("enter a number"))
+#if a>=1 and a<=100:
+#    print("number lies between 1 and 100")
+#else:
+#    print("not lies")
+
+
+
+#year =int(input("enter a year"))
+#if (year % 4==0 and year %100!=0) or (year % 400==0):
+#    print("leap year")
+#else:
+#    print("non leap")
+
+
+
+#Write a program to find the bitwise AND (&) of two numbers.
+#Write a program to find the bitwise OR (|) of two numbers.
+#Write a program to find the bitwise XOR (^) of two numbers.
+#Write a program to find the bitwise NOT (~) of a given number.
+#Write a program to perform a left shift (<<) operation on a number by a user-specified number of positions.
+#Write a program to perform a right shift (>>) operation on a number by a user-specified number of positions.
+
+#a=int(input("enter a number"))
+#b=int(input("enter a number"))
+#print(a&b)
+
+
+#a=int(input("enter a number:"))
+#b=int(input("enter a number"))
+#print(a|b)
+
+
+#a=int(input("enter a number:"))
+#b=int(input("enter a number:"))
+#print(a^b)
+
+
+#a=int(input("enter a number:"))
+#print(~a)
+
+
+#a=int(input("enter a number"))
+#b=int(input("enter number of positions:"))
+#print(a<<b)
+
+
+#a=int(input("enter a number"))
+#b=int(input("enter number of positions:"))
+#print(a>>b)
