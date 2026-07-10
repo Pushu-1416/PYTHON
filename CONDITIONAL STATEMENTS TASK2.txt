@@ -1,0 +1,82 @@
+#Check whether a number is positive, negative, or zero.
+#Check whether a number is even or odd.
+#Find the greater of two numbers.
+#Find the greatest of three numbers.
+#Check whether a person is eligible to vote (age 18 or above).
+#Check whether a student has passed or failed (pass marks: 35).
+#Check whether a character is a vowel or consonant.
+#Check whether a year is a leap year.
+#Check whether a number is divisible by both 5 and 11.
+#Check whether a person is eligible for a driving license (minimum age: 18).
+
+
+#a=int(input("enter a number: "))
+#if a>0:
+#    print("positive")
+#elif a<0:
+#    print("negative")
+#else:
+#    print("zero")
+
+
+#a=int(input("enter a number: "))
+#if a % 2 == 0:
+#   print("even")
+#else:
+#    print("odd")
+
+
+#a=int(input("enter a number: "))
+#b=int(input("enter a number: "))
+#if a>b:
+#    print("a is largest")
+#else:
+#     print("b is largest")
+
+
+#a=int(input("enter a number: "))
+#if a % 5 == 0 and a % 11 == 0:
+#    print("divisible by 5 and 11")
+#else:
+#    print("not divisible by 5 and 11")
+
+
+#a=input("enter a character: ")
+#if a in "aeiouAEIOU":
+#    print("vowel")
+#else:
+#    print("consonant")
+
+
+#a=int(input("enter a number: "))
+#b=int(input("enter a number: "))
+#c=int(input("enter a number: "))
+#if a >= b and a >= c:
+#    print("a is largest")
+#elif b >= a and b >= c:
+#    print("b is largest")
+#else:
+#    print("c is largest")
+
+
+#a=int(input("enter age: "))
+#if a>=18:
+#    print("eligible to vote")
+#else:
+#    print("not eligible")
+
+
+#a=int(input("enter marks: "))
+#if a>=35:
+#    print("pass")
+#else:
+#    print("fail")
+
+
+#a=int(input("enter a year: "))
+#if (a % 400 == 0 or a % 4 == 0) and (a %100 != 0):
+#    print("leap year")
+#else:
+#    print("non leap")
+
+
